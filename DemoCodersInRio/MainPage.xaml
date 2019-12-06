@@ -6,7 +6,7 @@
              mc:Ignorable="d" x:Class="DemoCodersInRio.MainPage">
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!"
+        <Label Text="Versão 2 do meu app"
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand" />
     </StackLayout>
